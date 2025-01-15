@@ -1,35 +1,36 @@
 [
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_customers_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_customers_dataset.csv",
     "file_name": "olist_customers_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_geolocation_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_geolocation_dataset.csv",
     "file_name": "olist_geolocation_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_order_items_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_order_items_dataset.csv",
     "file_name": "olist_order_items_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_order_reviews_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_order_reviews_dataset.csv",
     "file_name": "olist_order_reviews_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_orders_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_orders_dataset.csv",
     "file_name": "olist_orders_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_products_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_products_dataset.csv",
     "file_name": "olist_products_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/olist_sellers_dataset.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/olist_sellers_dataset.csv",
     "file_name": "olist_sellers_dataset.csv"
   },
   {
-    "csv_relative_url": "BigDataProjects/refs/heads/main/BrazilianECommerce/DataSet/product_category_name_translation.csv",
+    "csv_relative_url": "BrazilianECommerce/DataSet/product_category_name_translation.csv",
     "file_name": "product_category_name_translation.csv"
   }
 ]
+
 
